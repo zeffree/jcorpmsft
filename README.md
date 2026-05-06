@@ -2,4 +2,4 @@
 
 Interactive landing page for the Microsoft 365 Copilot adoption plan for Johor Corporation HQ.
 
-[Live site](https://zeffree.github.io/jcorp-copilot-adventure/)
+[Live site](https://zeffree.github.io/jcorpmsft/)
